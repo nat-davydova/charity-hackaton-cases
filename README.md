@@ -5,6 +5,7 @@
 
 * [Memory Game](#memory-game-table-of-contents)
 * [Shoot Children Scares](#shoot-children-scares-table-of-contents)
+* [15th Slider Game](#15th-slider-game-table-of-contents)
 * [Charity Day Banners Builder](#charity-day-banners-builder-table-of-contents)
 * [Maze Game](#maze-game-table-of-contents)
 
@@ -68,6 +69,19 @@
 * статистика в любых видах (графики, пай-чарты итд);
 * аккаунты и авторизация;
 * возможность красиво пошарить свой результат или профиль в соцсетях;
+
+## 15th Slider Game ([Table of Contents](#contents)) 
+
+**Сложность:** 🟧 средняя
+
+**Концепт:** игра-пятнашки "собери иллюстрацию". Берем иллюстрацию, режем на 15 кусочков - и дальше как в обычных, традиционных пятнашках. Иллюстрации используем на тему хакатона, берем их, например, с с [Freepik](https://www.freepik.com/) или [unsplash](https://unsplash.com/).
+
+**Пример:**
+
+Иллюстрация всратая, но лучший пример из того, что нашла:
+
+<img width="517" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/ce988791-6cfe-4f9d-9a03-ba4103890036">
+
 
 ## Charity Day Banners Builder ([Table of Contents](#contents)) 
 
