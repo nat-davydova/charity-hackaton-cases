@@ -8,6 +8,7 @@
 * [15th Slider Game](#15th-slider-game-table-of-contents)
 * [Charity Day Banners Builder](#charity-day-banners-builder-table-of-contents)
 * [Maze Game](#maze-game-table-of-contents)
+* [Home Builder](#home-builder-table-of-contents)
 
 ## Memory Game ([Table of Contents](#contents)) 
 
@@ -182,3 +183,23 @@
 * аккаунты и авторизация;
 * возможность играть с мобильного устройства/планшета;
 * возможность красиво пошарить свой результат или профиль в соцсетях;
+
+## Home Builder ([Table of Contents](#contents)) 
+
+**Сложность:** 🔴 высокая
+
+**Концепт:** пожалуй, самое творческое задание. Задача - собрать домик для ребенка. Это может быть 3D-like интерьер, это может быть плоский план. Могут быть интерактивные элементы.
+
+**Пример:**
+
+3D-сцены:
+
+<img width="903" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/325a32f3-0880-4f45-910a-271237653c6f">
+<img width="677" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/5231efac-30e5-44b0-9d56-4e5a03b20df5">
+
+
+Плоская сцена:
+
+<img width="748" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/eee1dc52-53e5-4073-aca5-2543a4b18b40">
+<img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/3c6be23f-ed98-415f-85ab-f08d8265bc55">
+
