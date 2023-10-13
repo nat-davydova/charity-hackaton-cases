@@ -196,13 +196,13 @@
 
 3D-сцены:
 
-<img width="903" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/325a32f3-0880-4f45-910a-271237653c6f">
-<img width="677" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/5231efac-30e5-44b0-9d56-4e5a03b20df5">
+<img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/325a32f3-0880-4f45-910a-271237653c6f">
+<img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/5231efac-30e5-44b0-9d56-4e5a03b20df5">
 
 
 Плоская сцена:
 
-<img width="748" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/eee1dc52-53e5-4073-aca5-2543a4b18b40">
+<img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/2e5fdf5e-2b37-48b1-b130-4c360377fb21">
 <img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/3c6be23f-ed98-415f-85ab-f08d8265bc55">
 
 **Базовый минимум:**
