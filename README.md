@@ -6,8 +6,8 @@
 * [Memory Game](#memory-game-table-of-contents)
 * [15th Slider Game](#15th-slider-game-table-of-contents)
 * [Shoot Children Scares](#shoot-children-scares-table-of-contents)
-* [Charity Day Banners Builder](#charity-day-banners-builder-table-of-contents)
 * [Maze Game](#maze-game-table-of-contents)
+* [Charity Day Banners Builder](#charity-day-banners-builder-table-of-contents)
 * [Home Builder](#home-builder-table-of-contents)
 
 ## Memory Game ([Table of Contents](#contents)) 
