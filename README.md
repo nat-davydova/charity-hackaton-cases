@@ -155,15 +155,15 @@
 
 Холст и смена его цвета:
 
-![Дизайн без названия — Видео (1)](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/22050c8f-cec1-4344-8350-a2704928db73)
+![Дизайн без названия — Видео (1)](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/3acafc8a-ccdc-4ce0-b199-b34b3baeb67d)
 
 Создание текстового блока и его кастомизация:
 
-![Дизайн без названия — Видео (2)](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/159cfeb3-228a-4f47-94ea-bb7bce7c2a78)
+![Дизайн без названия — Видео (2)](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/7ac103da-f32d-4598-8ab4-536a897f544a)
 
 Использование графики:
 
-![ezgif-1-6b94667dbe](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/0e140d4a-406e-49cf-82f1-7ac4da350b70)
+![ezgif-1-6b94667dbe](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/8d6e6ce1-9d28-450b-ad44-4c02897f76ec)
 
 **Базовый минимум:**
 
