@@ -18,7 +18,6 @@
 
 **Пример:** 
 
-![Sweet Memory Game - HTML5, JS and SCSS](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/b1b7f73f-c932-43b6-99a8-891cf1e138ad)
 
 **Базовый минимум:**
 
@@ -50,9 +49,9 @@
 
 Иллюстрация всратая, но лучший пример из того, что нашла (еще в иллюстрации - 3 на 3, а у нас будет базовая 4 на 4):
 
-<img width="517" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/ce988791-6cfe-4f9d-9a03-ba4103890036">
+<img width="609" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/eb3c5d60-ea87-4f27-b0ac-7e779fb74be0">
 
-![ezgif-2-78512cfaa5](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/473c5108-905d-4266-bc45-36c37c028993)
+![ezgif-2-78512cfaa5](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/cb9b7b91-c181-499d-9445-b0b659937a64)
 
 **Базовый минимум:**
 
