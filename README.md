@@ -212,14 +212,15 @@
 
 3D-сцены:
 
-<img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/325a32f3-0880-4f45-910a-271237653c6f">
-<img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/5231efac-30e5-44b0-9d56-4e5a03b20df5">
-
+![f3c6c873c8a3ac412ee1c96cec50baee](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/066e15bb-56c9-489d-8846-09c4a58ed538)
+![original-feb3f9c174aa0055b40ca251cd86bba6](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/bb651436-e3c4-4ba8-863e-d3626a2147ec)
 
 Плоская сцена:
 
-<img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/2e5fdf5e-2b37-48b1-b130-4c360377fb21">
-<img width="765" alt="image" src="https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/3c6be23f-ed98-415f-85ab-f08d8265bc55">
+![d2a422a7401e1a9459e1015a0e9a13da](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/24f3a18f-2ba1-4f07-9878-094bd703921f)
+![living-room-interior-with-large-panoramic-windows_107791-11853](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/ce925728-878b-4c4f-991b-1783c05a788c)
+![condo-accommodation-living-room-cosy-modern-minimalism-minimal-interior-indoor-set_126523-2467](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/e01e592d-86b8-48e9-8938-6c5a283c9234)
+![living-room-interior-set-of-furniture_107791-830](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/ff8809b9-0503-41cb-9b0a-f56f369afac6)
 
 **Базовый минимум:**
 
