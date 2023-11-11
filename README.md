@@ -19,6 +19,7 @@
 **Пример:** 
 
 
+
 **Базовый минимум:**
 
 * вывод поля с рандомно расположенными карточками (каждый раунд - новая позиция карточек);
@@ -120,7 +121,7 @@
 
 **Пример:**
 
-![ezgif-3-f8f861385f](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/693df18b-800b-41fe-a5b2-51250596a256)
+![ezgif-3-f8f861385f](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/c792c4d3-2ff6-45e5-9927-c6bea57c6443)
 
 **Базовый минимум:**
 
