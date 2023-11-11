@@ -87,7 +87,7 @@
 
 **Пример:**
 
-![Pure CSS ghost bustin' game w_ CSS variables 👻🕹#CodePenChallenge](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/37219648-3967-4637-9152-60c5e9e0b12c)
+![Pure CSS ghost bustin' game w_ CSS variables 👻🕹#CodePenChallenge](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/7ceabb8f-ebaf-4953-a056-3eb5bd2dba2e)
 
 **Базовый минимум:**
 
