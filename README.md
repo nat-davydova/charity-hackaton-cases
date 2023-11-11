@@ -18,7 +18,7 @@
 
 **Пример:** 
 
-
+![Sweet Memory Game - HTML5, JS and SCSS](https://github.com/nat-davydova/charity-hackaton-cases/assets/52240221/12735f2d-4e77-4aa3-a733-1a97e12b01e7)
 
 **Базовый минимум:**
 
